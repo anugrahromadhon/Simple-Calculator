@@ -1,4 +1,4 @@
-# Simple Calculator with Kivy
+# Simple Calculator with Tkinter and Kivy
 
 This is a simple calculator application built using **Kivy**, a Python library for developing multitouch applications. The calculator has a graphical user interface (GUI) with basic arithmetic operations such as addition, subtraction, multiplication, division, and the ability to clear the display and evaluate expressions.
 
