@@ -22,11 +22,17 @@ Before running this project, make sure you have the following installed:
 
 - Python 3.x
 - Kivy library
+- Tkinter library
 
 To install Kivy, use the following command:
 
 ```bash
 pip install kivy
+```
+To install Tkinter, use the following command:
+
+```bash
+pip install tk
 ```
 
 ### Running the Application
